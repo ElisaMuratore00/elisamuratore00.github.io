@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Elisa Muratore"
 title_separator          : "-"
 name                     : &name "Elisa Muratore"
-description              : &description "PhD candidate UNITN and CHuB@FBK"
+description              : &description "PhD candidate UNITN and CHuB@FBK."
 url                      : https://elisamuratore00.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "elisamuratore00/elisamuratore00.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Elisa Muratore"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Mathematics at UNITN and CHuB@FBK, interested in apllying maths and ML to disiformation and CIO detection."
+  bio              : "PhD Student in Mathematics at UNITN and CHuB@FBK" #, interested in applying maths and ML to disiformation and CIO detection.
   location         : "Earth"
   employer         : "University of Trento and CHuB Lab - Fondazione Bruno Kessler"
   uri              : # URL
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "elisamurators@bsky.social" # Replace this with you Bluesky username
+  bluesky          : "elisamurators.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/elisamuratore2000"
+  linkedin         : "elisamuratore2000"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

@@ -27,8 +27,7 @@ Academic experience
   * Supervisors: Prof. Claudio Agostinelli and Dr. Riccardo Gallotti
 
 * 02/2024 – 07/2024: Intern at Aalto University
-  * Academic internship programme at Aalto university on investigating coordinated inau-
-thentic behaviour in social media.
+  * Academic internship programme at Aalto university on investigating coordinated inauthentic behaviour in social media.
   * Supervisors: Prof. Mikko Kivelä and Letizia Iannucci
 
 * 02/2022 – 07/2022: Exchange student at Utrecht University
