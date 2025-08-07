@@ -11,54 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Mathematics for Data Science, University of Trento, October 2024
+  * Thesis: Marked temporal point processes for simulating and capturing coordinated behaviour campaigns: A model for enhancing disinformation detection.
+* B.S. in Mathematics, University of Trento, September 2022
+  * Thesis: Sentiment analysis tramite classificatori bayesiani: i tweet sul terremoto di Amatrice.
 
-Work experience
+Academic experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 10/2024 - 10/2025: Research assistant for Bruno Kessler Foundation
+  * Extraction, processing, and analysis of social media data, and defining, implementing, and experimenting with different strategies for disinformation detection within the European project Hatedemics
+  * Supervisor: Dr. Riccardo Gallotti
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 07/2024 – 10/2024: Thesis researcher intern at Bruno Kessler Foundation
+  * Thesis research intern on investigating coordinated inauthentic behaviour in social media applying advanced analytical methods to identify patterns and dynamics.
+  * Supervisors: Prof. Claudio Agostinelli and Dr. Riccardo Gallotti
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 02/2024 – 07/2024: Intern at Aalto University
+  * Academic internship programme at Aalto university on investigating coordinated inau-
+thentic behaviour in social media.
+  * Supervisors: Prof. Mikko Kivelä and Letizia Iannucci
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 02/2022 – 07/2022: Exchange student at Utrecht University
+  * Erasmus+ exchange programme at the Department of Mathematics.
+
