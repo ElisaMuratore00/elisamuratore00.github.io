@@ -26,8 +26,8 @@ author:
   name             : "Elisa Muratore"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Mathematics at UNITN and CHuB@FBK" #, interested in applying maths and ML to disiformation and CIO detection.
-  location         : "Earth"
-  employer         : "University of Trento and CHuB Lab - Fondazione Bruno Kessler"
+  location         : "Europe"
+  employer         : "Fondazione Bruno Kessler"
   uri              : # URL
   email            : "emuratore@fbk.eu" 
 
@@ -83,7 +83,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'   
+  thesis:
+    title: 'Thesis'    
   conferences:
     title: 'Conference Papers'
 

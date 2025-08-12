@@ -1,16 +1,15 @@
 ---
 title: "Self-exciting temporal point processes: a deep dive into the statistics of Hawkes processes"
 collection: teaching
-type: "Talk"
+type: "Lectures"
 permalink: /teaching/2024-winter-teaching-1
 venue: "University of Trento, Department of Mathematics"
 date: 2024-12-06
 location: "Trento, ITA"
 ---
 
-Lecturer for the university short-course “Self-exciting temporal point processes: a deep dive into
-the statistics of Hawkes processes” for second-year students from the Master in Mathematics
-for Data Science.
+> Lecturer for the university short-course “Self-exciting temporal point processes: a deep dive into the statistics of Hawkes processes” for second-year students from the Master in Mathematics for Data Science.
+
 
 Course description
 ======
