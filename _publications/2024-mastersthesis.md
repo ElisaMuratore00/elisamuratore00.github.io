@@ -22,4 +22,5 @@ The evaluation of our models and state-of-the-art techniques reveals that coordi
 
 Materials
 ======
-Thesis summary: [https://elisamuratore00.github.io/files/publication1.pdf]([https://elisamuratore00.github.io/files/publication1.pdf)
+Thesis summary: [publication1.pdf](../files/publication1.pdf)
+
