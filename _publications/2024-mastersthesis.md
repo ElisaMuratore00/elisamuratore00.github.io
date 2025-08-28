@@ -20,3 +20,6 @@ In this thesis, we investigate the detection of this coordination via the applic
 
 The evaluation of our models and state-of-the-art techniques reveals that coordination detection performance is highly dependent on campaign characteristics. No single method is consistently superior. While some methods excel in low-interaction environments, others are more effective in scenarios with higher social engagement. Notably, our user-to-user self-attention model achieves strong detection performance in mixedinteraction scenarios, surpassing many existing approaches. Ultimately, our findings highlight that the effectiveness of the detection methods depends on the characteristics of the considered coordinated campaign. We advocate for the use of our simulation framework in future research to enable rigorous, comprehensive evaluations of coordination detection methodologies. By addressing the limitations of existing datasets and detection methods, this work paves the way for more accurate and adaptable strategies against coordinated manipulation.
 
+Materials
+======
+Thesis summary: [https://elisamuratore00.github.io/files/publication1.pdf]([https://elisamuratore00.github.io/files/publication1.pdf)

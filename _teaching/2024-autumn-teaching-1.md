@@ -30,3 +30,7 @@ References
 * Laub, P. J., Taimre, T., & Pollett, P. K. (2015). Hawkes processes. arXiv preprint arXiv:1507.02822.
 * PJ Laub, Y Lee, T Taimre (2021) The elements of Hawkes processes. New York: Springer.
 * Daley, D. J., & Vere-Jones, D. (2003). An introduction to the theory of point processes: volume I: elementary theory and methods. New York: Springer.
+
+Materials
+======
+Lecture notes and videos: [https://datascience.maths.unitn.it/events/tpp2024/index.html](https://datascience.maths.unitn.it/events/tpp2024/index.html)
