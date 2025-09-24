@@ -14,18 +14,17 @@ Siamo circondati da una marea di informazioni potenzialmente vere o false, ma qu
 
 Che cosa é la disinformazione?
 ------
-La disinformazione è l'insieme di tutte le informazioni false o fuorvianti che sono diffuse in maniera intenzionale per manipolare l'opinione pubblica o influenzare il comportamento delle persone. Può essere diffusa attraverso vari canali, tra cui i social media. Per contrastare la disinformazione, è fondamentale valutare quello che si vede online con pensiero critico e verificare le fonti delle informazioni.
-
+La disinformazione è l'insieme di informazioni false o fuorvianti, diffuse intenzionalmente per manipolare l'opinione pubblica o influenzare il comportamento delle persone. Può propagarsi attraverso vari canali, tra cui i social media. Per contrastarla, è fondamentale valutare con spirito critico ciò che si trova online e verificare sempre le fonti.
 
 Come la ricerca può contrastare la disinformazione?
 ------
-Per aiutare le persone a riconoscere e contrastare la disinformazione, stiamo lavorando allo sviluppo di Jiminy, un'estensione per browser che aiuta gli utenti a identificare contenuti potenzialmente disinformanti nei feed dei loro social media.
-L'estensione permette agli utenti di valutare l'affidabilità dei post a cui sono esposti e come la piattaforma stia influenzando la loro esperienza online. 
+Per aiutare le persone a riconoscere e contrastare la disinformazione, stiamo lavorando allo sviluppo di Jiminy, un'estensione per browser che permette agli utenti di identificare contenuti potenzialmente disinformanti e ingannevoli direttamente nei feed dei loro social media.
+L'estensione offre agli utenti strumenti per valutare l'affidabilità dei post a cui sono esposti e per comprendere come l'influenza dell'algoritmo della piattaforma sulla loro esperienza online.
 
-Lo sviluppo di Jiminy è ancora in fase di sviluppo e non è ancora disponibile pubblicamente e potrebbe non funzionare correttamente. Se vuoi provare la versione in fase di testing in anteprima e darci un feedback, puoi scaricare la versione beta dell'estensione seguendo le istruzioni nei paragrafi seguendi. Nessuna informazione verrà condivisa a noi.
-Disclaimer: Utilizza Jiminy a tuo rischio e pericolo. 
+Lo sviluppo di Jiminy è in fase sperimentale e l'estensione non è ancora disponibile al pubblico e potrebbe presentare instabilità. Se vuoi provare la versione beta in anteprima e aiutarci con il tuo feedback, puoi scaricarla seguendo le istruzioni qui sotto. dell'estensione seguendo le istruzioni nei paragrafi seguendi. Nessuna informazione verrà condivisa a noi.  
+Disclaimer: L'utilizzo di Jiminy è a proprio rischio e pericolo, in quanto la versione beta potrebbe non garantire il funzionamento ottimale.
 
-Istruzioni per Google Chrome
+Jiminy per Google Chrome
 ------
 
 Aggiungere l'estensione:
@@ -43,7 +42,7 @@ Rimuovere l'estensione:
 3. Conferma la rimozione
 
 
-Istruzioni per Firefox
+Jiminy per Firefox
 ------
 
 Aggiungere l'estensione:
@@ -62,8 +61,7 @@ Rimuovere l'estensione:
 Materiale
 ======
 
-Programma della Notte Della Ricerca: [https://nottedellaricerca.tn.it/programma.html](https://nottedellaricerca.tn.it/programma.html)
-
+Programma della Notte Della Ricerca: [https://nottedellaricerca.tn.it/programma.html](https://nottedellaricerca.tn.it/programma.html)  
 Codice dell'estensione: [https://github.com/ElisaMuratore00/jiminy/](https://github.com/ElisaMuratore00/jiminy/)
 
 
