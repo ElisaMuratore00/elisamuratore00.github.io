@@ -9,7 +9,7 @@ location: "Trento, TN, ITA"
 ---
 
 
-Siamo circondati da una marea di informazioni potenzialmente vere o false, ma quanto siamo consapevoli della loro natura? Scopriremo insieme quanto i social media siano disseminati di contenuti potenzialmente disinformanti e dannosi e di come rendere più consapevole la propria esperienza digitale. Vieni a scoprire il potere della conoscenza e del pensiero critico per navigare al meglio nel mondo dell'informazione!
+> Siamo circondati da una marea di informazioni potenzialmente vere o false, ma quanto siamo consapevoli della loro natura? Scopriremo insieme quanto i social media siano disseminati di contenuti potenzialmente disinformanti e dannosi e di come rendere più consapevole la propria esperienza digitale. Vieni a scoprire il potere della conoscenza e del pensiero critico per navigare al meglio nel mondo dell'informazione!
 
 
 Che cosa è la disinformazione?
