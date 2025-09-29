@@ -62,15 +62,16 @@ Rimuovere l'estensione:
 Materiale
 ======
 
-Programma della Notte Della Ricerca: [https://nottedellaricerca.tn.it/programma.html](https://nottedellaricerca.tn.it/programma.html)  
-Codice dell'estensione: [https://github.com/ElisaMuratore00/jiminy/](https://github.com/ElisaMuratore00/jiminy/)
+Poster: [posterNdR2025.pdf](../files/posterNdR2025.pdf)
+Programma: [https://nottedellaricerca.tn.it/programma.html](https://nottedellaricerca.tn.it/programma.html)  
+Codice: [https://github.com/ElisaMuratore00/jiminy/](https://github.com/ElisaMuratore00/jiminy/)
 
 
 Contributors
 ======
 Elisa Muratore  
 Davide Pizzoli  
+Veronica Orsanigo  
 Matteo Scianna  
-Veronica Organigo  
 Anna Bertani  
 Riccardo Gallotti
