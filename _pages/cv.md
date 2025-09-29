@@ -10,16 +10,15 @@ redirect_from:
 {% include base_path %}
 
 
-Education
-======
-* M.S. in Mathematics for Data Science, University of Trento, October 2024
-  * Thesis: Marked temporal point processes for simulating and capturing coordinated behaviour campaigns: A model for enhancing disinformation detection.
-* B.S. in Mathematics, University of Trento, September 2022
-  * Thesis: Sentiment analysis tramite classificatori bayesiani: i tweet sul terremoto di Amatrice.
 
 
-Further academic experience
-======
+Academic experience
+------
+* 11/2025 - : PhD Candidate in Mathematics at University of Trento and Bruno Kessler Foundation
+  * Statistical Analysis and Temporal Graph Neural Networks for the Mathematical Modeling of Disinformation Propagation
+  * Supervisor: Dr. Riccardo Gallotti and Prof. Claudio Agostinelli
+
+
 * 10/2024 - 10/2025: Research assistant for Bruno Kessler Foundation
   * Extraction, processing, and analysis of social media data, and defining, implementing, and experimenting with different strategies for disinformation detection within the European project Hatedemics
   * Supervisor: Dr. Riccardo Gallotti
@@ -35,3 +34,10 @@ Further academic experience
 * 02/2022 – 07/2022: Exchange student at Utrecht University
   * Erasmus+ exchange programme at the Department of Mathematics.
 
+
+Education
+------
+* M.S. in Mathematics for Data Science, University of Trento, October 2024
+  * Thesis: Marked temporal point processes for simulating and capturing coordinated behaviour campaigns: A model for enhancing disinformation detection.
+* B.S. in Mathematics, University of Trento, September 2022
+  * Thesis: Sentiment analysis tramite classificatori bayesiani: i tweet sul terremoto di Amatrice.
