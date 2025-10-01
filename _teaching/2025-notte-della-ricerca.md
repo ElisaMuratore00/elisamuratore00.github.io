@@ -47,7 +47,7 @@ Come installare Jiminy per Firefox in 30 secondi
 ------
 
 Aggiungere l'estensione:
-1. Scarica il file zip jiminy-X.X.X-firefox.zip da [https://github.com/ElisaMuratore00/jiminy/releases](https://github.com/ElisaMuratore00/jiminy/releases) (X.X.X é il numero della versione)
+1. Scarica il file zip jiminy-X.X.X-firefox.zip da [https://github.com/ElisaMuratore00/jiminy/releases](https://github.com/ElisaMuratore00/jiminy/releases) (X.X.X è il numero della versione)
 3. Apri Firefox e utlizzando la barra di ricerca vai su “about:debugging#/runtime/this-firefox”
 5. Premi su “Load Temporary Add-on” e selezionare la cartella zip “jiminy-X.X.X-firefox.zip”
 6. Premi sulla lista di estensioni in alto a destra (l'icona del puzzle in alto a destra) e fissa l'estensione Jiminy (premi sul simbolo dello spillo)
