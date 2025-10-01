@@ -25,45 +25,44 @@ Lo sviluppo di Jiminy è in fase sperimentale e l'estensione non è ancora dispo
 Nota bene: L'estensione non condivide alcuna informazione con l'esterno e tutti i dati rimangono al più in locale e possono essere cancellati premendo il pulsante reset. 
 Disclaimer: L'utilizzo di Jiminy è a proprio rischio e pericolo in quanto la versione beta potrebbe non garantire il funzionamento ottimale.
 
-Jiminy per Google Chrome
+Come istallare Jiminy per Google Chrome in 30 secondi
 ------
 
 Aggiungere l'estensione:
 1. Scarica il file zip jiminy-X.X.X-chrome.zip da [https://github.com/ElisaMuratore00/jiminy/releases](https://github.com/ElisaMuratore00/jiminy/releases) (X.X.X è il numero della versione)
 2. Estrai la cartella scaricata
-3. Apri Chrome e nagiva su [chrome://extensions/](chrome://extensions/) 
-4. Abilita la modalità developer con il bottone in alto a destra
-5. Premi su "Load unpacked" e selezionare la cartella estratta “jiminy-X.X.X-chrome”
-7. Premi sulla lista di estensioni in alto a destra (l'icona del puzzle in alto a destra) e fissa l'estensione Jiminy (premi sul simbolo dello spillo)
-8. L'estensione é pronta e può essere utilizzata mentre navighi su X!
+3. Apri Chrome e utlizzando la barra di ricerca vai su “chrome://extensions/”
+4. Abilita la modalità sviluppatore ("developer" in inglese) con il bottone in alto a destra
+5. Premi su “Carica estensione non pacchettizzata” (“Load unpacked” in inglese) e seleziona la cartella estratta “jiminy-X.X.X-chrome”
+6. Premi sulla lista di estensioni in alto a destra sulla barra degli strumenti (l'icona del puzzle in alto a destra) e fissa l'estensione Jiminy (premi sul simbolo dello spillo)
+7. L'estensione è pronta e può essere utilizzata mentre navighi su X!
 
 Rimuovere l'estensione:
-1. Apri Chrome e naviga su [chrome://extensions/](chrome://extensions/) 
-2. Premi sul pulsante 'Remove' dell'estensione Jiminy
+1. Apri Chrome e vai su “chrome://extensions/” 
+2. Premi il pulsante “Remove” dell'estensione Jiminy
 3. Conferma la rimozione
 
 
-Jiminy per Firefox
+Come installare Jiminy per Firefox in 30 secondi
 ------
 
 Aggiungere l'estensione:
 1. Scarica il file zip jiminy-X.X.X-firefox.zip da [https://github.com/ElisaMuratore00/jiminy/releases](https://github.com/ElisaMuratore00/jiminy/releases) (X.X.X é il numero della versione)
-3. Apri Firefox e naviga su [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox) 
-5. Premi su "Load Temporary Add-on" e selezionare la cartella zip “jiminy-X.X.X-firefox.zip”
-7. Premi sulla lista di estensioni in alto a destra (l'icona del puzzle in alto a destra) e fissa l'estensione Jiminy (premi sul simbolo dello spillo)
-8. L'estensione é pronta e può essere utilizzata mentre navighi su X!
+3. Apri Firefox e utlizzando la barra di ricerca vai su “about:debugging#/runtime/this-firefox”
+5. Premi su “Load Temporary Add-on” e selezionare la cartella zip “jiminy-X.X.X-firefox.zip”
+6. Premi sulla lista di estensioni in alto a destra (l'icona del puzzle in alto a destra) e fissa l'estensione Jiminy (premi sul simbolo dello spillo)
+7. L'estensione è pronta e può essere utilizzata mentre navighi su X!
 
 Rimuovere l'estensione:
-1. Apri Firefox e naviga su [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox) 
-2. Premi sul pulsante 'Remove' dell'estensione Jiminy
+1. Apri Firefox e naviga su “about:debugging#/runtime/this-firefox”
+2. Premi sul pulsante “Remove” dell'estensione Jiminy
 3. Conferma la rimozione
 
 
 Materiale
 ======
 
-Poster: [posterNdR2025.pdf](../files/posterNdR2025.pdf)
-Programma: [https://nottedellaricerca.tn.it/programma.html](https://nottedellaricerca.tn.it/programma.html)  
+Poster: [posterNdR2025.pdf](../files/posterNdR2025.pdf)  
 Codice: [https://github.com/ElisaMuratore00/jiminy/](https://github.com/ElisaMuratore00/jiminy/)
 
 
