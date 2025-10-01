@@ -14,18 +14,19 @@ location: "Trento, TN, ITA"
 
 Che cosa è la disinformazione?
 ------
-La disinformazione è l'insieme di informazioni false o fuorvianti diffuse intenzionalmente per manipolare l'opinione pubblica o influenzare il comportamento delle persone. Può propagarsi attraverso vari canali, tra cui i social media.  
+La disinformazione è l'insieme di informazioni false o fuorvianti diffuse intenzionalmente per manipolare l'opinione pubblica o influenzare il comportamento delle persone. Può propagarsi attraverso vari canali, tra cui i social media, e può riguardare una vasta gamma di argomenti, dalla politica alla salute, dalla scienza alla società.
 
-Per contrastarla, è fondamentale valutare con spirito critico ciò che si trova online e verificare sempre le fonti.
+Il contrasto alla disinformazione è una sfida complessa che richiede un approccio multidisciplinare. La ricerca scientifica gioca un ruolo cruciale in questo contesto, poiché aiuta a comprendere i meccanismi alla base della diffusione della disinformazione e a sviluppare strategie efficaci per combatterla. 
+
 
 Come la ricerca può contrastare la disinformazione?
 ------
-Per aiutare le persone a riconoscere e contrastare la disinformazione, stiamo lavorando allo sviluppo di Jiminy, un'estensione per browser che permette agli utenti di identificare contenuti potenzialmente disinformanti e ingannevoli direttamente nei feed dei loro social media. L'obiettivo è quello di promuovere un consumo più consapevole dei media digitali, aiutando gli utenti a sviluppare un pensiero critico e a valutare l'affidabilità delle informazioni a cui sono esposti.  
+Per aiutare le persone a riconoscere e contrastare la disinformazione, stiamo lavorando allo sviluppo di Jiminy, un'estensione per browser che permette agli utenti di identificare contenuti potenzialmente disinformanti e ingannevoli direttamente nei feed dei loro social media. L'obiettivo è quello di promuovere un consumo più consapevole dei media digitali, aiutando gli utenti a sviluppare un pensiero critico e a valutare l'affidabilità delle informazioni a cui sono esposti. In particolare, Jiminy metterà a disposizione degli utenti informazioni e statistiche sviluppate dalla comunità scientifica per valutare la qualità delle informazioni presenti nei loro feed.
 
 Lo sviluppo di Jiminy è in fase sperimentale e l'estensione non è ancora disponibile al pubblico. Se vuoi comunque provare la versione beta in anteprima, puoi scaricarla seguendo le istruzioni qui sotto. Qualunque feedback è ben accetto!
 
-Nota bene: L'estensione non condivide alcuna informazione con l'esterno e tutti i dati rimangono in locale e possono essere cancellati premendo il pulsante reset.  
-Disclaimer: L'utilizzo di Jiminy è a proprio rischio e pericolo in quanto la versione beta potrebbe non garantire il funzionamento ottimale.
+**Nota bene**: L'estensione non condivide alcuna informazione con l'esterno, tutti i dati rimangono in locale e possono essere cancellati premendo il pulsante reset.  
+**Disclaimer**: L'utilizzo di Jiminy è a proprio rischio e pericolo in quanto la versione beta potrebbe non garantire il funzionamento ottimale.
 
 Come installare Jiminy per Google Chrome in 30 secondi
 ------
