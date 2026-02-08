@@ -7,13 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-> Applied Mathematician, interested in employing mathematical models, statistics and data analysis to investigate real-world phenomena, especially in the context of disinformation and coordinated inauthentic behaviour.
+> **Applied Mathematician**, interested in employing mathematical models, statistics and data analysis to investigate real-world phenomena, especially in the context of disinformation and coordinated inauthentic behaviour.
 
 Short Bio
 ------
 
-I am a **research assistant in the Complex Human Behaviour Lab** from Digital Society department in Bruno Kessler Foundation (Trento, Italy), a visitor in the University of Trento (Trento, Italy), a **soon-to-be PhD Candidate** within the Mathematics 41st cycle (starting in November 2025) at University of Trento and Bruno Kessler Foundation (Trento, Italy), and a research collaborator in AALTO University (Helsinki, Finland)
+Hi, welcome to my personal website (WIP)! :D  
 
-My research interests include **statistics, machine learning and mathematical models**, and employing these subjects to investigate real-world phenomena, especially in the context of **disinformation** and coordinated inauthentic behaviour.
+I am Elisa Muratore, a mathematician exploring the digital world. Currently, I am a **PhD Candidate** at the University of Trento and Bruno Kessler Foundation in Trento, Italy.  
+
+My research sits at the intersection of **statistics, mathematical models and machine learning**. In particular, 
+I am interested in applying these fields to investigate complex real-world challenges, with a primary focus on detecting **disinformation** and coordinated inauthentic behaviour on social media.  
+
+Before diving into my PhD in November 2025, I had the privilege of working with various research teams and projects across different institutions: **Complex Human Behaviour Lab** (FBK) as a research assistant, **University of Trento** as a visitor scholar, and **Aalto University** as a research collaborator in Helsinki, Finland.
+
 
 
