@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Marked temporal point processes for simulating and capturing coordinated behaviour<br />Conference on Complex Systems CCS 2025; Siena, SI",
+    43.3185536,
+    11.3316533
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "How to design a collection strategy for monitoring disinformation and hate speech in Telegram<br />Conference on Complex Systems CCS 2025; Siena, SI",
+    43.3185536,
+    11.3316533
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Notte della Ricerca 2025 - How science unmasks disinformation<br />Notte della Ricerca 2025; Trento, TN",
+    46.0664228,
+    11.1257601
   ]
 ];
