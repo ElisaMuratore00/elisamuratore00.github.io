@@ -14,6 +14,9 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Talks map"
+    url: /talkmap/
+    
   - title: "Teaching"
     url: /teaching/    
     
@@ -25,6 +28,7 @@ main:
     
   - title: "CV"
     url: /cv/
+
     
   # - title: "CV"
   #   url: /cv-json/
