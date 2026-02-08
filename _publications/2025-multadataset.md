@@ -1,7 +1,7 @@
 ---
 title: "MuLTa-Telegram"
 collection: publications
-category: papers
+category: conferences
 permalink: /publication/2025-11-30-multa-telegram-dataset
 excerpt: 'MuLTa-Telegram: A Fine-Grained Italian and Polish Dataset for Hate Speech and Target Detection.'
 date: 2025-11-30

@@ -1,7 +1,7 @@
 ---
 title: "Detecting Coordinated Activities"
 collection: publications
-category: papers
+category: conferences
 permalink: /publication/2025-12-22-detecting-coordinated-activities
 excerpt: 'Detecting Coordinated Activities Through Temporal, Multiplex, and Collaborative Analysis.'
 date: 2025-12-22
