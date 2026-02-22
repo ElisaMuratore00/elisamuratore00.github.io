@@ -6,7 +6,10 @@ on:
       - 'talks/**'
       - '_talks/**'
       - 'talkmap.ipynb'
-
+      
+permissions:
+  contents: write
+      
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,7 +24,8 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install jupyter pandas requests beautifulsoup4 geopy  # Add other dependencies as needed
+        pip install jupyter pandas requests==2.32.3 beautifulsoup4 geopy==2.4.1  # Add other dependencies as needed
+        pip install frontmatter==3.0.8
         pip install getorg --upgrade
 
     - name: Run Jupyter Notebook
